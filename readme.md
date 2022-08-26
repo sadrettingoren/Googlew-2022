@@ -1,0 +1,1 @@
+Front-End Eğitimi kapsamında Html ve Css derslerinden öğrendiklerimiz ile Google'ın günümüzdeki anasayfasını dizayn ettim.
